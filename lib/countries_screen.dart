@@ -25,7 +25,7 @@ class _CountriesScreenState extends State<CountriesScreen> {
     countries.add('Brunei');
 
     for (String name in countries) {
-      myCountries.add(MyCountry(name, name + ".jpg", "I AM SUBTITLE", "MY"));
+      myCountries.add(MyCountry(name, name + ".jpg", "qisijun", "MY"));
     }
   }
 
