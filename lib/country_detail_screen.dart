@@ -50,7 +50,7 @@ class _CountryDetailScreenState extends State<CountryDetailScreen> {
                         children: [
                           Expanded(
                               child: CardComponent(
-                            title: "New Cases",
+                            title: "New Casessss",
                             value: statistic?.cases?.newCase ?? "0",
                             title_color: Colors.black45,
                             value_color: Colors.red,
