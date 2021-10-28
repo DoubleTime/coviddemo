@@ -21,7 +21,7 @@ class _CountriesScreenState extends State<CountriesScreen> {
   @override
   void initState() {
     super.initState();
-    countries.add('Indonesia');
+    countries.add('Indonesias');
     countries.add('Brunei');
 
     for (String name in countries) {
